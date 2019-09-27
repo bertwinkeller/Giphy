@@ -1,1 +1,2 @@
 # Giphy
+permalink: /.index.html
